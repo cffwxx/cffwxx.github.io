@@ -3,10 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-title: 
 ---
-
-# About
 
 I'm Chi-Fong Wong, you can call me Freeman!
 
