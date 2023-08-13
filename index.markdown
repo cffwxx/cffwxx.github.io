@@ -5,7 +5,7 @@
 layout: home
 ---
 
-# About
+## About
 
 I'm Chi-Fong Wong, you can call me Freeman!
 
