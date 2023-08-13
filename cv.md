@@ -34,13 +34,13 @@ from National Tsing Hua University, 2008
 
 ## Publications
 
-1. Chi-Fong Wong, Yang Chen (2022). Tree level majorana neutrino mass from type-1 × type-2 see- saw mechanism with dark matter. <br>Physics Letters B, 833, 137354. <br>DOI: https://doi.org/10.1016/j.physletb.2022.137354.
-2. Chi-Fong Wong (2021). Anomaly-free chiral U(1)D and its scotogenic implication. <br>Physics of the Dark Universe, 32, 100818. <br>DOI: https://doi.org/10.1016/j.dark.2021.100818
-3. Chi-Fong Wong, Kim-Chiu Chow, Kwing L. Chan, Jing Xiao and Yemeng Wang (2021). Some features of effective radius and variance of dust particles in the numerical simulation of dust climate on Mars. <br>Earth and Planetary Physics, 5(1), 1-8. <br>DOI: https://doi.org/10.26464/epp2021005.
-4. Yemeng Wang, Kim-Chiu Chow, Jing Xiao, and Chi-Fong Wong (2021). Effect of dust particle size on the climate of Mars. <br>Planetary and Space Science, 208, 105346. <br>DOI: https://doi.org/10.1016/j.pss.2021.105346.
-5. Kim-Chiu Chow, Jing Xiao, Kwing L. Chan and Chi-Fong Wong (2019). Flow Associated With the Condensation and Sublimation of Polar Ice Caps on Mars. <br>Journal of Geophysical Research: Planets, 124, 1570-1580. <br>DOI: https://doi.org/10.1029/2018JE005848.
-6. We-Fu Chang, Siao-Cing Liou, Chi-Fong Wong and Fanrong Xu (2016). Charged lepton flavor violating processes and scalar leptoquark decay branching ratios in the colored Zee-Babu model. <br>Journal of High Energy Physics 2016, 106. <br>DOI: https://doi.org/10.1007/JHEP10(2016)106.
-7. We-Fu Chang and Chi-Fong Wong (2012). Model for neutrino masses and dark matter with a discrete gauge symmetry. <br>Physical Review D 85, 013018. <br>DOI: https://doi.org/10.1103/PhysRevD.85.013018.
+1. Chi-Fong Wong, Yang Chen (2022). Tree level majorana neutrino mass from type-1 × type-2 see- saw mechanism with dark matter. Physics Letters B, 833, 137354. <br>DOI: <https://doi.org/10.1016/j.physletb.2022.137354>
+2. Chi-Fong Wong (2021). Anomaly-free chiral U(1)D and its scotogenic implication. Physics of the Dark Universe, 32, 100818. <br>DOI: <https://doi.org/10.1016/j.dark.2021.100818>
+3. Chi-Fong Wong, Kim-Chiu Chow, Kwing L. Chan, Jing Xiao and Yemeng Wang (2021). Some features of effective radius and variance of dust particles in the numerical simulation of dust climate on Mars. Earth and Planetary Physics, 5(1), 1-8. <br>DOI: <https://doi.org/10.26464/epp2021005>
+4. Yemeng Wang, Kim-Chiu Chow, Jing Xiao, and Chi-Fong Wong (2021). Effect of dust particle size on the climate of Mars. Planetary and Space Science, 208, 105346. <br>DOI: <https://doi.org/10.1016/j.pss.2021.105346>
+5. Kim-Chiu Chow, Jing Xiao, Kwing L. Chan and Chi-Fong Wong (2019). Flow Associated With the Condensation and Sublimation of Polar Ice Caps on Mars. Journal of Geophysical Research: Planets, 124, 1570-1580. <br>DOI: <https://doi.org/10.1029/2018JE005848>
+6. We-Fu Chang, Siao-Cing Liou, Chi-Fong Wong and Fanrong Xu (2016). Charged lepton flavor violating processes and scalar leptoquark decay branching ratios in the colored Zee-Babu model. Journal of High Energy Physics 2016, 106. <br>DOI: <https://doi.org/10.1007/JHEP10(2016)106>
+7. We-Fu Chang and Chi-Fong Wong (2012). Model for neutrino masses and dark matter with a discrete gauge symmetry. Physical Review D 85, 013018. <br>DOI: <https://doi.org/10.1103/PhysRevD.85.013018>
 
 ## Conference Presentations
 
