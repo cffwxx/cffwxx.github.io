@@ -12,7 +12,7 @@ I have been working on High Energy Physics since the beginning of my career, mai
 
 ### Machine Learning X Physics
 
-Recent advancements of Machine Learning have provided a rich toolbox for studies of physical science, particularly in dealing with complicated phenomena and datasets. I am interested in applying Machine Learning techniques in:
+Recent advancements of Machine Learning have provided a rich toolbox for physical science, particularly in dealing with complicated phenomena and datasets. I am interested in applying Machine Learning techniques in:
 
 * particle colliders experiments
 * astrophysical observations
