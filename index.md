@@ -2,8 +2,6 @@
 layout: home
 ---
 
-
-
 Hello! I am Chi-Fong Wong (used in my publications), and you can call me Freeman Wong!
 
 I am now an assistant professor in the faculty of Data Science at City University of Macau.
@@ -12,44 +10,30 @@ I am now an assistant professor in the faculty of Data Science at City Universit
 
 ## Research Interests
 
-### HEP
+### High Energy Physics
 
-bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala 
-
-bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala 
-
-bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala 
-
-
-
-bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala 
-
-bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala 
+I have been working on High Energy Physics since the begining of my career, mainly on theoretical and phenomenological aspects about origin of neutrino masses, Dark Matter, and flavor puzzle.
 
 
 
 ### Physics X Data Science
 
-bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala 
-
-bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala 
 
 
+Collider data analysis
 
-bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala 
+Astronomical data analysis
 
-bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala 
+Planetary atmospheric simulation and analysis
 
-bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala 
+I am also interested about ML and physical law discovery
 
 
 
 ## To students
 
-bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala 
+Can join the all above topic of research if you have suffcient background on the related topics (mostly physics and modern physics)
 
-bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala 
+If you are interested about planetary physics, working on planetary atmo is suitable
 
-
-
-bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala bala 
+Nevertheless, I personally interest on quantitative finance, especially quantitative trading or algorithmic trading (in the form of program trading). So if you are interested on building up a software system (in python) for automaic trading and discovering beneficial trading strategies, you are also welcome to work with me. Also to discover physical models for financial market and interaction.

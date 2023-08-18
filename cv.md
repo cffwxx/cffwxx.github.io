@@ -4,6 +4,8 @@ title: CV
 permalink: /cv/
 ---
 
+![](/imgs/wilson.jpeg)
+
 ## Personal
 
 Language: Cantonese, Mandarine, English
