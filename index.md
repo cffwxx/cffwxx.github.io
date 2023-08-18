@@ -23,4 +23,4 @@ Recent advancements of Machine Learning have provided a rich toolbox for studies
 
 You are very welcome to join me in aforementioned research topics. It would be optimal if you have strong background in mathematics, physics, or astronomy. However, you can still contribute effectively to these topics even with purely CS/DS background.
 
-**Futhermore**, although not a primary research focus, quantitative finance especially algorithmic trading is one of my intellectual interests. Therefore, you are also welcome to join me in building up an automated trading system, designing a beneficial trading strategy, or discovering hidden connection between financial markets and physics.
+**Futhermore**, although not a primary research focus, quantitative finance especially algorithmic trading is one of my intellectual interests. Therefore, you are also welcome to join me in building up an **automated trading system**, designing a beneficial **trading strategy**, or discovering **hidden connection between financial markets and physics**.
