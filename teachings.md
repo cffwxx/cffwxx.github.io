@@ -6,7 +6,7 @@ permalink: /teachings/
 
 
 
-## Teachings in CityU
+## City U
 
 ### Undergraduate
 
