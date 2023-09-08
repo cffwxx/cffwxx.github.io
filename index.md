@@ -6,21 +6,24 @@ Hello! I am Chi-Fong Wong, an assistant professor in the Faculty of Data Science
 
 ## Research Interests
 
-### High Energy Physics
-
-I have been working on High Energy Physics since the beginning of my career, mainly on theoretical and phenomenological aspects about origin of neutrino masses, Dark Matter, and flavor puzzle. More topics related to Cosmology such as Dark Energy, Inflation, and Gravitational Wave may also be considered.
-
 ### Machine Learning X Physics
 
-Recent advancements of Machine Learning have provided a rich toolbox for physical science, particularly in dealing with complicated phenomena and datasets. I am interested in applying Machine Learning techniques in:
+Recent advancements of machine learning have provided a rich toolbox for physical science, particularly in dealing with complicated phenomena and datasets. Currently, I am studying machine learning applications in following topics:
 
-* particle colliders experiments
-* astrophysical observations
-* atmospheric science of Mars
-* discovering equations from data
+* Particle collider experiments.
+* Data-driven inference of dynamic equations.
+* Mars' atmosphere simulation and data analysis.
+
+### High Energy Physics
+
+High energy physics studies the most fundamental structure and interactions of nature and is inevitably related to cosmology. I work on Beyond Standard Model physics, aiming to address:
+
+* The flavour problem, especially neutrino mass and mixing.
+* Cosmological mysteries, including dark matter, dark energy, and gravitational wave.
 
 ## To students
 
-You are very welcome to join me in aforementioned research topics. It would be optimal if you have strong background in mathematics, physics, or astronomy. However, you can still contribute effectively to these topics even with purely CS/DS background.
+You are welcome to join me in the aforementioned research topics.
 
-**Futhermore**, although not a primary research focus, **quantitative finance** especially **algorithmic trading** is one of my intellectual interests. Therefore, you are also welcome to join me in building up an automated trading system, designing a beneficial trading strategy, or scrutinizing dynamics of financial markets.
+* Students in computer science and data science are particularly suitable for topics relevant to machine learning. It would be a great opportunity to experience the frontier of natural science research.
+* Futhermore, **quantitative finance** especially **algorithmic trading** is one of my intellectual interests. You are welcome to join me in building an automated trading system, designing a profitable trading strategy, or uncovering hidden dynamics behind financial markets.
