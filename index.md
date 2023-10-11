@@ -8,13 +8,13 @@ I primarily work on particle physics phenomenology, focusing on neutrinos (about
 
 Recently, I have been paying more attention to utilizing machine learning and data analysis techniques on various topics across physics and finance. From a physicist's perspective, the sciences of both fields are the same.
 
-## Recent research Interests
+## Recent Research Interests
 
 ### Machine Learning Applications
 
 * High energy physics and cosmological data, such as collider experiments and astronomical observations.
 * Data-driven inference of differential equation in complex system, such as atmosphere.
-* Data analysis on finance market, such as stock price and anomaly.
+* Data analysis on financial market, such as stock price and anomaly.
 
 ### High Energy Physics
 
