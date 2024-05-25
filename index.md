@@ -10,15 +10,5 @@ Recently, I have been paying more attention to utilizing machine learning and da
 
 ## Recent Research Interests
 
-### Machine Learning Applications
-
-* High energy physics and cosmological data, such as collider experiments and astronomical observations.
-* Data-driven inference of differential equation in complex system, such as atmosphere.
-* Data analysis on financial market, such as stock price and anomaly.
-
-### High Energy Physics
-
-High energy physics studies the most fundamental structure and interactions of nature and is inevitably related to cosmology. I work on Beyond Standard Model physics, aiming to address:
-
-* The flavour problem, especially neutrino mass and mixing.
-* Cosmological mysteries, including dark matter, dark energy, and gravitational wave.
+* Theory (High Energy Physics, Cosmology, Physics for AI)
+* Data (finance, Astrophysics)
