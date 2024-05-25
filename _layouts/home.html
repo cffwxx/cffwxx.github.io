@@ -8,16 +8,16 @@ layout: default
     <h1 class="page-heading">{{ page.title }}</h1>
   {%- endif -%}
 
-  <!-- {% if site.profile_picture %}
+  {% if site.profile_picture %}
     {% include base.html %}
     <img src="{{ site.profile_picture }}" class="profile-picture" alt="{{ site.author }} profile picture"></img>
-  {% endif %} -->
+  {% endif %}
 
   {{ content }}
 
 </div>
 
-<!-- <style>
+<style>
   .profile-picture {
   float: right;
   /* margin-right: $spacing-unit; */
@@ -36,4 +36,4 @@ layout: default
       margin-right: auto;
   }
 }
-</style> -->
+</style>
