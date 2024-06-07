@@ -2,16 +2,14 @@
 layout: home
 ---
 
-Hello! I am Chi-Fong Wong, a physicist, currently an assistant professor in the Faculty of Data Science at City University of Macau.
+Hello! I am Chi-Fong Wong, a theoretical physicist, currently an assistant professor in the Faculty of Data Science at City University of Macau.
 
-I primarily work on particle physics phenomenology, focusing on neutrinos (about the origin of masses and mixings) and dark matter (about its nature and cosmological impact). Additionally, I have also dedicated some time before to simulations and analysis of the Martian atmosphere, particularly regarding its global circulation and intriguing seasonal dust storms.
-
-Recently, I have been paying more attention to utilizing machine learning and data analysis techniques on various topics across physics and finance. From a physicist's perspective, the sciences of both fields are the same.
+I primarily work on particle physics phenomenology, focusing on neutrinos (about the origin of masses and mixings) and dark matter (about its nature and cosmological impact). I have also dedicated some time before to simulations and analysis of the Martian atmosphere, specifically its seasonal dust storms. Recently, I have been paying more attention to interdisciplinary topics among physics, data science, and finance.
 
 ## Research Interests
 
 * Theory (Physics for AI, High Energy Physics, Cosmology)
-* Data (AI for Physics, Finance)
+* Data (High Energy Physics, Astrophysics, Finance)
 
 ## Publications
 
