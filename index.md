@@ -8,8 +8,8 @@ I primarily work on particle physics phenomenology, focusing on neutrinos (about
 
 ## Research Interests
 
-* Theory (Physics for AI, High Energy Physics, Cosmology)
-* Data (High Energy Physics, Astrophysics, Finance)
+* Theory (High Energy Physics, Cosmology, Physics for AI)
+* Data (Particle Physics, Astrophysics, Finance)
 
 ## Publications
 
